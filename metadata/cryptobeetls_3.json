@@ -1,0 +1,27 @@
+{
+    "name": "cryptobeetle 3",
+    "description": "beetle",
+    "image": "https://ipfs.io/ipfs/QmP2TZTNAqNaxGq9gKxG5o3QiPpmtVWr4HDqafd71rChbC",
+    "attribute": [
+        {
+            "trait_type": "Generation",
+            "value": 1
+        },
+        {
+            "trait_type": "dots",
+            "value": 8
+        },
+        {
+            "trait_type": "Antenna",
+            "value": "large"
+        },
+        {
+            "trait_type": "Background",
+            "value": "cloud"
+        },
+        {
+            "trait_type": "sunglases",
+            "value": true
+        }
+    ]
+}
